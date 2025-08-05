@@ -1,6 +1,6 @@
 # Sistema de Gerenciamento Escolar (Console) 🏫
 
-Projeto desenvolvido por Octavio Coelho Chaves para praticar lógica de programação, estrutura de menus e manipulação de arquivos JSON com Python.
+Projeto desenvolvido para praticar lógica de programação, estrutura de menus e manipulação de arquivos JSON com Python.
 
 ## Funcionalidades:
 - Cadastro de estudantes, professores, disciplinas, turmas e matrículas.
